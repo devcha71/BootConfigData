@@ -4,5 +4,5 @@
 #If you need a hint take a look at the “ConfigData” folder in the student files. Save your work and commit to the repository.
 ---
 wordConfig:
-  luckyWord:"Irish"
-  preamble:"The lucky word is"
+  luckyWord: Irish
+  preamble: The lucky word is
