@@ -1,0 +1,8 @@
+#Add a level for “wordConfig:” and entries within it for “luckyWord:” and “preamble:”. 
+#Add a value for lucky word, something like “Irish” or “Serendipity” or “Rabbit’s Foot”. 
+#For preamble add a value such as “The lucky word is”. 
+#If you need a hint take a look at the “ConfigData” folder in the student files. Save your work and commit to the repository.
+---
+wordConfig:
+  luckyWord:"Irish"
+  preamble:"The lucky word is"
